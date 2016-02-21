@@ -5,5 +5,5 @@ require 'minitest/pride'
 require 'pry'
 
 class WordListTest < Minitest::Test
-
+  
 end
